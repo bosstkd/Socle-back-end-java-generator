@@ -3,7 +3,7 @@
 
 ### How to use:
 - on windows -> double click on -> windows-run.bat
-- choose the name of your project respecting variable clauses nominations
+- choose the name of your project respecting variable namming clauses,
 - a (.zip) file will be generated in the same folder of the (.bat)
 
 ### more infos: 
